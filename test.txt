@@ -1,1 +1,2 @@
 Hi this is a text file for the test repository on GITHUB
+Adding pull request to the repo
